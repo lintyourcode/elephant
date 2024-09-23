@@ -1,157 +1,201 @@
 # Elephantine Language Reference Sheet
 
-**Introduction**
+---
 
-The Elephantine Language is a constructed language designed using the natural vocalizations of elephants. It simulates how elephants might communicate if their sounds formed a structured language similar to human languages. This reference sheet provides all the rules and structures of the Elephantine Language for learners with no prior experience.
+## Introduction
+
+The Elephantine Language is a constructed language inspired by the natural vocalizations of elephants. It imagines how elephants might communicate if their sounds formed a structured language akin to human languages. This guide provides a comprehensive overview of the Elephantine Language's rules and structures for learners with no prior experience.
 
 ---
 
 ## Phonology
 
-Elephants produce a variety of sounds, each with distinct acoustic properties. In the Elephantine Language, these sounds serve as the fundamental phonemes (distinct units of sound).
+In the Elephantine Language, the diverse sounds produced by elephants serve as phonemes—the basic units of sound that distinguish meaning.
 
-### Phonemes
+### Phonemes and Their Characteristics
 
-1. **Trumpets** (`T`): Loud, resonant calls produced with the trunk.
-2. **Rumbles** (`R`): Low-frequency sounds that can travel long distances.
-3. **Snorts** (`S`): Short, explosive exhalations through the trunk.
-4. **Squeaks** (`Q`): High-pitched sounds, often brief.
-5. **Chirps** (`C`): Short, melodic sounds.
-6. **Growls** (`G`): Deep, throaty sounds.
-7. **Barks** (`B`): Sharp, abrupt vocalizations.
-8. **Roars** (`O`): Powerful, prolonged sounds.
+1. **Trumpets (`T`)**
+   - **Description**: Loud, resonant calls produced with the trunk.
+   - **Characteristics**: Variable in pitch and duration; can be long or short.
 
-### Phoneme Characteristics
+2. **Rumbles (`R`)**
+   - **Description**: Low-frequency sounds that can travel long distances.
+   - **Characteristics**: Sustained, low-frequency vibrations; pitch can vary.
 
-- **Trumpets (`T`)**: Variable in pitch, can be long or short.
-- **Rumbles (`R`)**: Sustained, low-frequency vibrations.
-- **Snorts (`S`)**: Brief and percussive.
-- **Squeaks (`Q`)**: High-pitched, can be rapidly repeated.
-- **Chirps (`C`)**: Light, staccato notes.
-- **Growls (`G`)**: Rough and medium in duration.
-- **Barks (`B`)**: Sudden and short.
-- **Roars (`O`)**: Extended and forceful.
+3. **Snorts (`S`)**
+   - **Description**: Short, explosive exhalations through the trunk.
+   - **Characteristics**: Brief and percussive; pitch variation possible.
+
+4. **Squeaks (`Q`)**
+   - **Description**: High-pitched sounds, often brief.
+   - **Characteristics**: Can be rapidly repeated; pitch varies.
+
+5. **Chirps (`C`)**
+   - **Description**: Short, melodic sounds.
+   - **Characteristics**: Light, staccato notes; pitch variation possible.
+
+6. **Growls (`G`)**
+   - **Description**: Deep, throaty sounds.
+   - **Characteristics**: Rough and medium in duration; pitch can vary.
+
+7. **Barks (`B`)**
+   - **Description**: Sharp, abrupt vocalizations.
+   - **Characteristics**: Sudden and short; pitch variation allowed.
+
+8. **Roars (`O`)**
+   - **Description**: Powerful, prolonged sounds.
+   - **Characteristics**: Extended and forceful; pitch variation present.
+
+**Note on Pitch Variation:** All phonemes in the Elephantine Language can vary in pitch. Pitch variation is crucial and conveys grammatical meanings such as tense, aspect, and mood. This variation is universally applied to all phonemes, including those considered consonants.
 
 ---
 
-## Syllable Structure
+## Phonotactics and Syllable Structure
 
-The basic syllable structure in the Elephantine Language is (C)V(C), where:
+**Phonotactics** refers to the rules governing permissible combinations of sounds.
 
-- `C` = Consonant (any phoneme except rumbles `R` and roars `O`)
-- `V` = Vowel (rumbles `R` and roars `O` serve as vowels due to their sustained nature)
+### Syllable Structure
 
-### Possible Syllable Examples
+The basic syllable structure is **(C)V(C)**:
+- **C** = Consonant (any phoneme)
+- **V** = Vowel (Rumbles `R` and Roars `O` function as vowels due to their sustained nature)
+
+**Consonant-only syllables** are allowed, especially in root words and particles.
+
+#### Syllable Examples
 
 - **Open syllable (CV)**: `T` + `R` (Trumpet followed by Rumble)
 - **Closed syllable (CVC)**: `S` + `O` + `G` (Snort, Roar, Growl)
-- **Vowel-only syllable (V)**: `R` or `O` (Rumble or Roar alone)
+- **Consonant-only syllable (C)**: `B` (Bark)
 
----
+### Phonotactic Rules
 
-## Phonotactics
-
-Rules governing sound combinations:
-
-1. **Consonant Clusters**: A maximum of two consonants can appear consecutively.
-2. **Vowel Length**: Rumbles `R` and Roars `O` can be lengthened to convey different meanings.
-3. **Pitch Variation**: Changes in pitch can modify meaning (e.g., higher pitch for questions).
+1. **Consonant Clusters**: Maximum of two consonants can appear consecutively.
+2. **Vowel Lengthening**: Rumbles `R` and Roars `O` can be lengthened to convey emphasis or intensity.
+3. **Pitch Variation**: Changes in pitch on any phoneme modify grammatical meanings like tense and mood.
 
 ---
 
 ## Morphology
 
+**Morphology** deals with the formation and structure of words.
+
 ### Word Formation
 
-- **Roots**: Basic concepts represented by root syllables.
-- **Affixes**: Sounds added to roots to modify meaning.
+Words are formed using **roots** and **affixes**.
 
-#### Prefixes
+#### Roots
 
-- **Intensifier (`S`)**: Snort added before a root to intensify or amplify meaning.
-- **Negation (`G`)**: Growl prefix indicates negation or opposition.
+- Represent basic concepts.
+- Examples:
+  - **Water**: `R` (Rumble)
+  - **Food**: `O` (Roar)
+  - **Drink**: `B` (Bark)
 
-#### Suffixes
+#### Affixes
 
-- **Plurality (`Q`)**: Squeak added after a root to indicate plural forms.
-- **Diminutive (`C`)**: Chirp suffix denotes smallness or endearment.
+Modify or extend the meaning of roots.
 
-### Examples
+**Prefixes:**
 
-- **Root for "water"**: `R` (Rumble)
-  - **"Much water"**: `S` + `R` (Snort-Rumble)
-  - **"No water"**: `G` + `R` (Growl-Rumble)
-  - **"Waters"**: `R` + `Q` (Rumble-Squeak)
-  - **"Little water"**: `R` + `C` (Rumble-Chirp)
+- **Intensifier (`S`)**: Adds emphasis.
+  - *Example*: `S` + `R` (Snort-Rumble) means "much water."
+- **Negation (`G`)**: Indicates negation or opposition.
+  - *Example*: `G` + `R` (Growl-Rumble) means "no water."
+
+**Suffixes:**
+
+- **Plurality (`Q`)**: Indicates plural forms.
+  - *Example*: `R` + `Q` (Rumble-Squeak) means "waters."
+- **Diminutive (`C`)**: Denotes smallness or endearment.
+  - *Example*: `R` + `C` (Rumble-Chirp) means "little water."
 
 ---
 
 ## Syntax
 
-The Elephantine Language follows a Subject-Object-Verb (SOV) word order.
+**Syntax** defines how words are arranged in sentences.
 
 ### Sentence Structure
 
-1. **Subject**: The performer of the action.
-2. **Object**: The recipient of the action.
+The Elephantine Language follows a **Subject-Object-Verb (SOV)** order.
+
+#### Components
+
+1. **Subject**: Performer of the action.
+2. **Object**: Recipient of the action.
 3. **Verb**: The action itself.
 
-### Example Sentence
+#### Example
 
 - **"Elephant drinks water":**
-  - **Subject (Elephant)**: `T` (Trumpet)
-  - **Object (Water)**: `R` (Rumble)
-  - **Verb (Drinks)**: `B` (Bark)
+  - **Subject**: `T` (Trumpet) for "Elephant"
+  - **Object**: `R` (Rumble) for "Water"
+  - **Verb**: `B` (Bark) for "Drinks"
   - **Constructed Sentence**: `T` `R` `B` (Trumpet Rumble Bark)
 
 ---
 
 ## Grammar
 
+Grammar encompasses tense, aspect, mood, and the use of pronouns.
+
 ### Tense
 
-Tense is indicated by pitch variation in the vowel sounds (`R` and `O`):
+Indicated by **pitch variation** on the verb's primary phoneme (universal to all phonemes including consonants).
 
 - **Present Tense**: Normal pitch.
-- **Past Tense**: Lower pitch.
-- **Future Tense**: Higher pitch.
+- **Past Tense**: Lowered pitch.
+- **Future Tense**: Raised pitch.
+
+#### Example with Verb "Walk" (`S`):
+
+- **Present**: Normal pitch on `S`.
+- **Past**: Lower pitch on `S`.
+- **Future**: Higher pitch on `S`.
 
 ### Aspect
 
-Aspect is conveyed by repeating vowel sounds or using specific prefixes:
+Conveys the nature of the action.
 
-- **Continuous Aspect**: Repeat the vowel sound.
-  - E.g., `R` `R` (Repeated Rumble) for ongoing actions.
+- **Continuous Aspect**: Repeat the verb's primary phoneme.
+  - *Example*: `B` `B` (Repeated Bark) for "is drinking."
 - **Perfect Aspect**: Prefix the verb with `Q` (Squeak).
-  - E.g., `Q` `B` (Squeak-Bark) for actions that have been completed ("has drunk").
+  - *Example*: `Q` `B` (Squeak-Bark) for "has drunk."
 
 ### Mood
 
-Mood is expressed using particular phonemes or pitch changes:
+Expresses the speaker's intent or attitude.
 
 - **Indicative Mood**: Standard statements.
 - **Imperative Mood**: Begin the sentence with `B` (Bark).
+  - *Example*: `B` `TOG` (Bark Trumpet-Roar-Growl) for "Run!"
 - **Interrogative Mood**: End the sentence with a higher-pitched `Q` (Squeak).
+  - *Example*: `TO` `Q` (Trumpet-Roar Squeak with higher pitch) for "Is there danger?"
 
 ---
 
 ## Pronouns
 
-Personal pronouns are represented by specific phonemes:
+Personal pronouns are represented by specific phonemes, with plurality indicated by adding a Squeak (`Q`).
 
-- **First Person Singular ("I")**: `T` (Trumpet)
-- **Second Person Singular ("You")**: `S` (Snort)
-- **Third Person Singular ("He/She/It")**: `G` (Growl)
+### Singular Pronouns
 
-Plurality is indicated by adding a `Q` (Squeak):
+- **First Person ("I")**: `T` (Trumpet)
+- **Second Person ("You")**: `S` (Snort)
+- **Third Person ("He/She/It")**: `G` (Growl)
 
-- **First Person Plural ("We")**: `T` + `Q` (Trumpet-Squeak)
-- **Second Person Plural ("You all")**: `S` + `Q` (Snort-Squeak)
-- **Third Person Plural ("They")**: `G` + `Q` (Growl-Squeak)
+### Plural Pronouns
+
+- **First Person ("We")**: `TQ` (Trumpet-Squeak)
+- **Second Person ("You all")**: `SQ` (Snort-Squeak)
+- **Third Person ("They")**: `GQ` (Growl-Squeak)
 
 ---
 
 ## Vocabulary
+
+Key words in the Elephantine Language:
 
 - **Elephant**: `T` (Trumpet)
 - **Water**: `R` (Rumble)
@@ -160,12 +204,30 @@ Plurality is indicated by adding a `Q` (Squeak):
 - **Drink**: `B` (Bark)
 - **Eat**: `C` (Chirp)
 - **Walk**: `S` (Snort)
-- **Run**: `T` + `O` + `G` (`TOG` - Trumpet-Roar-Growl)
+- **Run**: `TOG` (Trumpet-Roar-Growl)
 - **Big**: `O` (Roar)
 - **Small**: `C` (Chirp)
-- **Danger**: `T` + `O` (`TO` - Trumpet-Roar)
-- **Friend**: `R` + `C` (`RC` - Rumble-Chirp)
-- **Hurry**: `T` + `O` + `S` (`TOS` - Trumpet-Roar-Snort)
+- **Danger**: `TO` (Trumpet-Roar)
+- **Friend**: `RC` (Rumble-Chirp)
+- **Hurry**: `TOS` (Trumpet-Roar-Snort)
+
+---
+
+## Communication Nuances
+
+### Emphasis
+
+- Increase the **volume** or **duration** of a sound to emphasize a word.
+  - *Example*: Lengthen `R` in `R` (Rumble) to stress "water."
+
+### Emotional Tone
+
+Convey emotions through **pitch**, **tempo**, and **volume**:
+
+- **Happiness**: Upward pitch glides; lighter sounds.
+- **Sadness**: Downward pitch glides; slower tempo.
+- **Urgency**: Faster tempo; increased volume.
+- **Calmness**: Even tempo; softer sounds.
 
 ---
 
@@ -181,14 +243,13 @@ Plurality is indicated by adding a `Q` (Squeak):
 ### Example 2: "Is there danger?"
 
 - **Object ("Danger")**: `TO` (Trumpet-Roar)
-- **Interrogative Mood**: Higher-pitched `Q` at the end
+- **Interrogative Mood**: Higher-pitched `Q` at the end.
 - **Constructed Sentence**: `TO` `Q` (Trumpet-Roar Squeak with higher pitch)
 
 ### Example 3: "They walked."
 
 - **Subject ("They")**: `GQ` (Growl-Squeak)
-- **Verb ("Walk")**: `S` (Snort)
-- **Past Tense**: Lower pitch on the verb
+- **Verb ("Walk")**: `S` (Snort with lower pitch)
 - **Constructed Sentence**: `GQ` `S` (Growl-Squeak Snort with lower pitch)
 
 ### Example 4: "Run!"
@@ -197,32 +258,65 @@ Plurality is indicated by adding a `Q` (Squeak):
 - **Verb ("Run")**: `TOG` (Trumpet-Roar-Growl)
 - **Constructed Sentence**: `B` `TOG` (Bark Trumpet-Roar-Growl)
 
+### Example 5: "I will drink water."
+
+- **Subject ("I")**: `T` (Trumpet)
+- **Object ("Water")**: `R` (Rumble)
+- **Verb ("Drink")**: `B` (Bark with higher pitch)
+- **Constructed Sentence**: `T` `R` `B` (Trumpet Rumble Bark with higher pitch)
+
 ---
 
-## Communication Nuances
+## Key Points on Pitch Variation and Tense
 
-### Emphasis
+- **Pitch Variation Applies to All Phonemes**: It is used universally to convey grammatical meanings.
+  
+### Indicating Tense:
 
-Emphasis is added by increasing the volume or duration of a sound.
+- **Present Tense**: Normal pitch on the verb's primary phoneme.
+- **Past Tense**: Lower pitch on the verb's primary phoneme.
+- **Future Tense**: Higher pitch on the verb's primary phoneme.
 
-- **To emphasize a word**: Lengthen the vowel or consonant.
-  - Example: Extend the `R` in `R` (Rumble) to stress "water."
+#### Example with Verb "Walk" (`S`):
 
-### Emotional Tone
+- **Present**: `S` (Normal pitch)
+- **Past**: `S` (Lower pitch)
+- **Future**: `S` (Higher pitch)
 
-Emotions are conveyed through changes in pitch, tempo, and volume:
+**Sentence Example: "They will walk."**
 
-- **Happiness**: Upward pitch glides and lighter sounds.
-- **Sadness**: Downward pitch glides and slower tempo.
-- **Urgency**: Faster tempo and increased volume.
-- **Calmness**: Even tempo and softer sounds.
+- **Subject ("They")**: `GQ` (Growl-Squeak)
+- **Verb ("Walk")**: `S` (Higher pitch)
+- **Constructed Sentence**: `GQ` `S` (Growl-Squeak Snort with higher pitch)
 
 ---
 
 ## Summary
 
-The Elephantine Language utilizes the diverse sounds produced by elephants as phonemes to create a structured means of communication. By following specific rules in phonology, morphology, syntax, and grammar, speakers can convey complex ideas and emotions effectively.
+The Elephantine Language leverages the natural sounds of elephants to create a structured language. By following consistent rules in phonology, morphology, syntax, and grammar—and using pitch variation across all phonemes—speakers can effectively convey complex ideas and emotions.
 
 ---
 
-**Note**: In this language guide, all phonemes used in vocabulary and examples are defined in the phonology section, ensuring consistency and clarity for learners.
+## Notes for Learners
+
+- **Consistency in Rules**: Pitch variation is applied consistently to all phonemes to indicate tense.
+- **Practice Pitch Awareness**: Developing an ear for pitch differences is crucial for fluency.
+- **Application**: Always apply pitch variation to the primary phoneme of the verb to indicate tense.
+
+---
+
+**Happy Learning! Embrace the sounds of the Elephantine Language as you explore this unique mode of communication.**
+
+---
+
+# Appendix
+
+**Important Points on Pitch Variation and Tense**
+
+- Remember that **pitch variation is not restricted to vowel sounds**. It applies to all phonemes, including consonants.
+- Tense is always indicated by altering the pitch of the **primary phoneme of the verb**.
+- Consistent use of pitch variation ensures clarity in communication.
+
+---
+
+Feel free to refer back to this guide as you practice and immerse yourself in the Elephantine Language.
