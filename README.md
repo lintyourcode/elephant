@@ -36,7 +36,7 @@ Elephants produce a variety of sounds, each with distinct acoustic properties. I
 
 ## Syllable Structure
 
-The basic syllable structure in Elephantine Language is (C)V(C), where:
+The basic syllable structure in the Elephantine Language is (C)V(C), where:
 
 - `C` = Consonant (any phoneme except rumbles and roars)
 - `V` = Vowel (rumbles `R` and roars `O` serve as vowels due to their sustained nature)
@@ -53,9 +53,9 @@ The basic syllable structure in Elephantine Language is (C)V(C), where:
 
 Rules governing sound combinations:
 
-1. **Consonant Clusters**: Maximum of two consonants can appear consecutively.
+1. **Consonant Clusters**: A maximum of two consonants can appear consecutively.
 2. **Vowel Length**: Rumbles and roars can be short or long to convey different meanings.
-3. **Tone and Pitch**: Variations in pitch can modify meaning (e.g., higher pitch might indicate a question).
+3. **Tone and Pitch**: Variations in pitch can modify meaning (e.g., a higher pitch might indicate a question).
 
 ---
 
@@ -79,10 +79,10 @@ Rules governing sound combinations:
 ### Examples
 
 - **Root word for "water"**: `R` (Rumble)
-- **"Much water"**: `S` + `R` (Snort-Rumble)
-- **"No water"**: `G` + `R` (Growl-Rumble)
-- **"Waters"**: `R` + `Q` (Rumble-Squeak)
-- **"Little water"**: `R` + `C` (Rumble-Chirp)
+  - **"Much water"**: `S` + `R` (Snort-Rumble)
+  - **"No water"**: `G` + `R` (Growl-Rumble)
+  - **"Waters"**: `R` + `Q` (Rumble-Squeak)
+  - **"Little water"**: `R` + `C` (Rumble-Chirp)
 
 ---
 
@@ -99,12 +99,10 @@ Elephantine Language follows a Subject-Object-Verb (SOV) word order.
 ### Example Sentence
 
 - **"Elephant drinks water":**
-
   - **Subject (Elephant)**: `T` (Trumpet)
   - **Object (Water)**: `R` (Rumble)
   - **Verb (Drinks)**: `B` (Bark)
-
-- **Constructed Sentence**: `T` `R` `B` (Trumpet Rumble Bark)
+  - **Constructed Sentence**: `T` `R` `B` (Trumpet Rumble Bark)
 
 ---
 
@@ -123,14 +121,15 @@ Tense is indicated by pitch variation of the vowel sounds (`R` and `O`):
 Aspect is shown by repeating the vowel sound:
 
 - **Continuous Aspect**: Double the vowel sound.
-  - E.g., `R` `R` (Sustained Rumble)
+  - E.g., `R` `R` (Sustained Rumble) for ongoing action.
 - **Perfect Aspect**: Precede the verb with a `Q` (Squeak).
+  - E.g., `Q` `B` (Squeak-Bark) for "has drunk."
 
 ### Mood
 
 Mood is expressed through the use of specific phonemes:
 
-- **Indicative Mood**: Standard sentence.
+- **Indicative Mood**: Standard sentence structure.
 - **Imperative Mood**: Begin with `B` (Bark).
 - **Interrogative Mood**: End with a higher-pitched `Q` (Squeak).
 
@@ -167,6 +166,8 @@ Here is a basic vocabulary list of common words:
 - **Small**: `C` (Chirp)
 - **Danger**: `T` + `O` (Trumpet-Roar)
 - **Friend**: `R` + `C` (Rumble-Chirp)
+- **Hurry**: `TOS` (Trumpet-Roar-Snort)
+- **Run**: `TON` (Trumpet-Roar-Growl)
 
 ---
 
@@ -174,26 +175,29 @@ Here is a basic vocabulary list of common words:
 
 ### Example 1: "We eat food."
 
-- **Subject ("We")**: `T` + `Q` (Trumpet-Squeak)
+- **Subject ("We")**: `TQ` (Trumpet-Squeak)
 - **Object ("Food")**: `O` (Roar)
 - **Verb ("Eat")**: `C` (Chirp)
-
-**Constructed Sentence**: `T` `Q` `O` `C` (Trumpet-Squeak Roar Chirp)
+- **Constructed Sentence**: `TQ` `O` `C` (Trumpet-Squeak Roar Chirp)
 
 ### Example 2: "Is there danger?"
 
-- **Object ("Danger")**: `T` + `O` (Trumpet-Roar)
+- **Object ("Danger")**: `TO` (Trumpet-Roar)
 - **Interrogative Mood**: End with higher-pitched `Q` (Squeak)
-
-**Constructed Sentence**: `T` `O` `Q` (Trumpet-Roar Squeak)
+- **Constructed Sentence**: `TOQ` (Trumpet-Roar-Squeak with higher pitch)
 
 ### Example 3: "They walked."
 
-- **Subject ("They")**: `G` + `Q` (Growl-Squeak)
+- **Subject ("They")**: `GQ` (Growl-Squeak)
 - **Verb ("Walk")**: `S` (Snort)
-- **Past Tense**: Lower pitch on vowel sound in verb (since `S` is a consonant, we signal past tense by lowering pitch of any adjacent vowel or by context)
+- **Past Tense**: Lower pitch on the verb
+- **Constructed Sentence**: `GQ` `S` (Growl-Squeak Snort with lowered pitch)
 
-**Constructed Sentence**: `G` `Q` `S` (Growl-Squeak Snort) with lowered pitch on `S`
+### Example 4: "Hurry!"
+
+- **Imperative Mood**: Begin with `B` (Bark)
+- **Verb ("Hurry")**: `TOS` (Trumpet-Roar-Snort)
+- **Constructed Sentence**: `B` `TOS` (Bark Trumpet-Roar-Snort)
 
 ---
 
@@ -204,7 +208,7 @@ Here is a basic vocabulary list of common words:
 Emphasis can be added by increasing the volume or duration of a sound.
 
 - **Emphasizing a word**: Prolong the vowel or consonant.
-  - E.g., Longer `R` in `R` (Rumble) to emphasize "water"
+  - E.g., Lengthen `R` in `R` (Rumble) to emphasize "water."
 
 ### Emotional Tone
 
